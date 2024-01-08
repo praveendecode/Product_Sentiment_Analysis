@@ -9,7 +9,7 @@
  
  - The ultimate goal is to compare the actual ratings with the analysis compound score and assess the project's success in accurately reflecting user sentiments4
 
-   
+    
 # Main Features
 
  ### Web Scraping
