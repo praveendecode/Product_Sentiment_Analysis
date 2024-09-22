@@ -7,7 +7,7 @@
 
  - This project aims to gauge user satisfaction regarding a particular product by analyzing online product reviews. Utilizing tools such as NLTK, Prowebscraper, Python, Seaborn, Plotly, and Matplotlib, the project involves web scraping, exploratory data analysis (EDA), and natural language processing (NLP) to convert data into sentiment scores.
  
- - The ultimate goal is to compare the actual ratings with the analysis compound score and assess the project's success in accurately reflecting user sentiments4
+ - The ultimate goal is to compare the actual ratings with the analysis compound score and assess the project's success in accurately reflecting user sentiments
 
     
 # Main Features
